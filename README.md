@@ -4,7 +4,7 @@
 
 Brushless inrunners of this form-factor have been proven all over the world as exceptional power systems for beetleweight combat robots. Where this motor differs is its increased power, RPM, and torque when compared to other simmilar products while maintaing the same formfactor and weight. 
 
-This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based [cb-technology](https://www.cb-technology.co.nz/) product by Connor Benton.
+This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based product by [cb-technology](https://www.cb-technology.co.nz/), Connor Benton.
 
 ## FEATURES
 - Billet Aluminium (6061 T6) CNC Machined Motor Can.
