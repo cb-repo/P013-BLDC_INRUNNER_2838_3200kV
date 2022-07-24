@@ -1,30 +1,30 @@
 # BLDC INRUNNER 2838 3200kV
 
-<img src="assets/THE_BRAWN_FRONT.png" width="400"> <img src="assets/THE_BRAWN_REAR.png" width="400">
+<img src="assets/MOTOR.png" width="400">
 
-THE BRAWN is a single DC-motor ESC: originally designed for insect-weight combat-robots, but is suitable for any appliction requiring a lightweight motor driver. 
+Brushless inrunners of this form-factor have been proven all over the world as exceptional power systems for beetleweight combat robots. Where this motor differs is its increased power, RPM, and torque when compared to other simmilar products while maintaing the same formfactor and weight. 
 
-Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton, visit [cb-technology](https://www.cb-technology.co.nz/) for details.
+This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based [cb-technology](https://www.cb-technology.co.nz/) product by Connor Benton.
 
 ## FEATURES
-- Single Bi-Directional DC-motor output.
-- Ultra-compact and lightweight.
-- Under-voltage and reverse-polarity battery input protections.
-- Run and status LED's.
-- Instant power on and brown out recovery.
-- Internal BEC for recievers.
-- Includes a 100nF capacitor across the motor output to filter noise and voltage spikes.
+- Billet Aluminium (6061 T6) CNC Machined Motor Can.
+- Motor components anodized Red and Black.
+- Oversized ABEC5 Bearings.
+- Removable/replacable rotor if damage is sustained.
+- 3.5mm gold-plated motor bullet connectors.
+- Different colour heatshrink used on each phase to minimise confusion when wiring.
 
 ## SPECIFICATIONS
-- **Dimensions - Motor Can:** 28x38 mm
-- **Dimensions - Shaft Diameter:** 1/8" = 3.175 mm
-- **Rotor Poles:** 4
+- **Dimensions :** *see the Mechanical Drawing seciton below*
+- **Shaft Diameter:** 1/8" = 3.175 mm
 - **Weight:** 95 g
 - **Watts:** 600 W
-- **Voltage - Max:** 16*V* = 4s LiPo
+- **Voltage - Max:** 16V (4s LiPo)
+- **Current - Max:** 35 A
 - **Rotational Speed - Max:** 50 000 RPM
 - **Velocity Constant (K<sub>v</sub>):** 3200 RPM/V
 - **Torque Constant (K<sub>&tau;</sub>):** 0.2984 N⋅cm
-- **Current - Max:** 35 A
-
+- **Rotor Poles:** 4
  
+ ## MECHANICAL DRAWING
+<img src="assets/MECH_DWG.png" width="700">
